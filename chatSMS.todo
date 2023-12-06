@@ -1,0 +1,15 @@
+12/5/23:
+    ✔ Get GPT API to work from Python @done(23-12-05 21:55)
+    ✔ Get Twilio API to work from Python @done(23-12-05 22:09)
+
+12/6/23:
+    ☐ Set up a Flask server on Azure
+    ☐ Research Rate Limiting
+
+12/7/23:
+    ☐ Send SMS message to GPT
+    ☐ Get response from GPT
+    ☐ Send response to Twilio
+
+
+
